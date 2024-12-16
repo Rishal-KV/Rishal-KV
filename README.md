@@ -20,14 +20,13 @@
 
 #### 🌟 Backend:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,git" height="50" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git" height="50" alt="Backend Skills" />
 </div>
 
 ---
 
 ### 🚀 About Me:
 - 🔭 Currently working on **full-stack web applications (MERN Stack)**.
-- 🌱 Learning **Docker** to build scalable applications.
 - ❓ Ask me about **React, Node.js, and backend development**.
 - ⚡ Fun fact: I can debug faster than I finish my coffee ☕.
 
