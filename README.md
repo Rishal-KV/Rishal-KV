@@ -20,7 +20,7 @@
 
 #### 🌟 Backend:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git" height="50" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,git" height="50" alt="Backend Skills" />
 </div>
 
 ---
