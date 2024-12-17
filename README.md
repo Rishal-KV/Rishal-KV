@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@YOUR-WAKATIME-USERNAME">
+  <a href="https://wakatime.com/@@16cd4e87-40fa-4aa7-89f5-80525dbb3ecb">
     <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg" alt="WakaTime Badge" width="300"/>
   </a>
 </p>
