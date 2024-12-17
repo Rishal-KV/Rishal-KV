@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@@16cd4e87-40fa-4aa7-89f5-80525dbb3ecb">
-    <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg" alt="WakaTime Badge" width="300"/>
+    <img src="https://wakatime.com/share/@16cd4e87-40fa-4aa7-89f5-80525dbb3ecb/9a0c3e36-3377-486e-8b02-f4341882239f.svg.html" alt="WakaTime Badge" width="300"/>
   </a>
 </p>
 
