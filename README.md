@@ -1,60 +1,27 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishal-KV&style=for-the-badge&color=green" alt="Profile Views" />
-</div>
-
-<h1 align="center" style="font-family: 'Roboto', sans-serif;">
-  <span style="color: #007acc;">Hello,</span> I'm <span style="color: #e63946;">Rishal KV</span> 👋
-</h1>
-
 <p align="center">
-  <em><strong>MERN Stack Developer</strong> | Building Scalable and Engaging Web Applications 🚀</em>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVrbHdzd2d5eTdxc3hqYXV6ZW9rZnF0c3cxYXB3NmozZWtrMzZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hwvxuIKLEayDS/giphy.gif" alt="Profile Animation" width="480"/>
 </p>
 
----
-
-### 💻 **Tech Stack**
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,redux,js,html,css" height="40" alt="Frontend Skills" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,git" height="40" alt="Backend Skills" />
-    </td>
-  </tr>
-</table>
-
----
-
-### ✨ **About Me**
-- 🔭 **Current Focus:** Full-stack web development using the **MERN stack**.
-- 🎯 **Ask Me About:** React, Node.js, MongoDB, and backend design principles.
-- ⚡ **Fun Fact:** I speak fluent **code** and debug faster than my coffee cools ☕.
-
----
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishal-KV&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishal-KV&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
----
-
-### 🌐 **Let's Connect**
-<div align="center">
-  <a href="https://github.com/Rishal-KV" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <a href="https://gitroll.io/profile/Rishal-KV" target="_blank">
+    <img width=480 src="https://gitroll.io/api/badges/profiles/v1/Rishal-KV?theme=nord" alt="GitRoll Profile Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rishal-kv/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@rishal-kv">
+    <img src="https://wakatime.com/badge/user/eeb3dfb4-6a99-4673-8148-202e3cd8f6d2.svg" alt="WakaTime Badge" width="300"/>
   </a>
-  <a href="mailto:rishalkv.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@rishal-kv">
+    <img src="https://wakatime.com/share/@rishal-kv/a00bcbf2-6d50-488d-a70e-e628d0defdf7.png" alt="WakaTime Weekly Stats" width="500"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@rishal-kv">
+    <img src="https://wakatime.com/share/@rishal-kv/8785123b-9320-4117-9c99-689c22fd5c3b.svg" alt="WakaTime Yearly Stats" width="500"/>
+  </a>
+</p>
