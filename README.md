@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://gitroll.io/profile/uNYiwSaFZzxcGwnoRP6Lr1lmYk8P2" target="_blank">
-    <img width=480 src="https://gitroll.io/api/badges/profiles/v1/Rishal-KV?theme=nord" alt="GitRoll Profile Badge"/>
+    <img width=480 src="https://gitroll.io/profile/uNYiwSaFZzxcGwnoRP6Lr1lmYk8P2" alt="GitRoll Profile Badge"/>
   </a>
 </p>
 
